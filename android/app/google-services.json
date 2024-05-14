@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602122237044",
+    "project_id": "learn-firebase-auth-fc20e",
+    "storage_bucket": "learn-firebase-auth-fc20e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602122237044:android:4dda05751af7a22a288d21",
+        "android_client_info": {
+          "package_name": "com.example.learn_firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMstOntFLI_EsZ9OVghvt1ixnKw0S9k18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
